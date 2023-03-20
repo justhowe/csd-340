@@ -1,0 +1,27 @@
+/Justin Howell-Module 2.2
+<!DOCTYPE html>
+<html>
+   <head> 
+	<title>CSD 340 Development with HTML and CSS</title>
+	<meta name="description"
+		content="Module 2.2" />
+	<meta name="keywords"
+		content="module, homework, schoolwork" />
+	<meta name="robots"
+		content="nofollow" />
+	<meta http-equiv="author"
+		content="Justin Howell" />
+	<link hred=""C:\Users\Jay\Desktop\csd-340\module-2\Howell_Mod2_2 .css" type="text/css"
+		rel="stylesheet" />
+   </head>
+   <body>
+	<div id="container">
+	<h1>Journey Through HTML & CSS</h1>
+	<h2>Module 1 & Stress</h2>
+	<p id="intro">Hi, my name is Justin Howell and I live in Orlando, Florida. I work at Disney World as a full-time coordinator at one of the busiest quick-service restaurants in the world! I used to live in Roanoke, Virginia.</p>
+	<p>My entire life I was infatuated with Physics, however, I only have time to self-teach. I never had too much money and moved out at 16/17, so figuring out my college life was never the easiest. I joined the Army for three years and then began working at Disney World due to my lack of money for college.</p>
+	<p> I recently adopted a cat; it has been my favorite and least favorite thing ever. <span id="sentence">His name is Fraction</span> and he is a black-short-haired cat. He also has five toes on each paw!</p>
+	<p>I recently got a new apartment with my girlfriend, Emily. We are both excited as this is our first apartment and our first time really living together. Overall, I am truly excited to learn in this class!</p>
+	<hr />
+	<address><p>Bellevue University</p><p>1000 Galvin Rd S</p><p>Bellevue, NE 68005</p>
+      <p>https://degrees.bellevue.edu/?&msclkid=42bc35ec2edf11daf41751fb9f145d61&utm_source=bing&utm_medium=cpc&utm_campaign=Brand%20-%20National%20-%20Consolidated&utm_term=bellevue%20university&utm_content=Brand%20-%20University%20-%20Broad&gclid=42bc35ec2edf11daf41751fb9f145d61&gclsrc=3p.ds</p></address>
