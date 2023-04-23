@@ -1,0 +1,13 @@
+#image-gallery {
+	display: grid;
+	margin-top: 10%;
+	grid-column-start: 1;
+	float: left;}
+h3 {
+	text-align: center}
+figure {
+	text-align: center
+	float: left;}
+figcaption {
+	font-style: italic;
+	font-size: .75em;}
